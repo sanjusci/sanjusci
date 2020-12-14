@@ -1,5 +1,9 @@
-### Tools & Technologies
+### Donate for better Development
+<p>
+  <a href="https://paypal.me/goankabazaar?locale.x=en_GB" rel="nofollow"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;"></a>
+</p>
 
+### Tools & Technologies
 <p align="left">
   <!-- Python -->
   <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
