@@ -1,4 +1,4 @@
-### Donate for better Development
+### Donate for encourage to Development New things
 <p>
   <a href="https://paypal.me/goankabazaar?locale.x=en_GB" rel="nofollow"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;"></a>
 </p>
@@ -6,15 +6,15 @@
 ### Tools & Technologies
 <p align="left">
   <!-- Python -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   <!-- Java -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="java" width="40" height="40"/> 
   <!-- Scala -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/scala/scala-original-wordmark.svg" alt="scala" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/scala-lang/scala-lang-icon.svg" alt="scala" width="40" height="40"/>
   <!-- Akka -->
   <img src="https://www.vectorlogo.zone/logos/databricks/databricks-icon.svg" alt="akka" width="40" height="40"/>
   <!-- Django -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/django/django-original.svg" alt="django" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg" alt="django" width="40" height="40"/> 
   <!-- Flask -->
   <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> 
   <!-- Redis -->
@@ -24,11 +24,11 @@
   <!-- Cassandra -->
   <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> 
   <!-- MongoDB -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/> 
   <!-- MySQL -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" alt="mysql" width="40" height="40"/> 
   <!-- PostgreSQL -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" alt="postgresql" width="40" height="40"/> 
   <!-- Elasticsearch -->
   <img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="40" height="40"/> 
   <!-- Zookeeper -->
@@ -38,13 +38,13 @@
   <!-- Ansible -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/ansible.svg" alt="ansible" width="40" height="40"/>
   <!-- Docker -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/> 
   <!-- AWS -->
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/amazonaws.svg" alt="aws" width="40" height="40"/> 
   <!-- Bash -->
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   <!-- Linux -->
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/> 
   <!-- Git -->
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
 </p>
