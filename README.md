@@ -80,7 +80,6 @@ Reach out to me at **sanju.sci9@gmail.com**
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=10-Days-of-Statistics&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/10-Days-of-Statistics)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=data-science&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/data-science)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=hotel-taxonomy&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/hotel-taxonomy)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=django-rest-framework&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/django-rest-framework)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=LyraAssistant&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/LyraAssistant)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=sanjusci&repo=youtube-cli-downloader&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&theme=radical)](https://github.com/sanjusci/youtube-cli-downloader)
