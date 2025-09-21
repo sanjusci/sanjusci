@@ -1,7 +1,16 @@
-### Donate for encourage to Development New things
-<p>
-  <a href="https://paypal.me/goankabazaar?locale.x=en_GB" rel="nofollow"><img src="https://img.shields.io/badge/Donate-PayPal-green.svg" alt="paypal" data-canonical-src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" style="max-width:100%;"></a>
-</p>
+## 💖 Support Me!!!
+
+If you find my projects helpful and want to encourage me to build **new things**,  
+consider supporting my work 🙌
+
+☕ [Buy Me a Coffee](https://www.buymeacoffee.com/sanjusci)  
+💸 [Sponsor via GitHub](https://github.com/sponsors/sanjusci)  
+📤 [PayPal Donation](https://paypal.me/goankabazaar)  
+
+Your support means a lot and helps me dedicate more time to open-source development 🚀
+
+---
+
 
 ### Tools & Technologies
 <p align="left">
